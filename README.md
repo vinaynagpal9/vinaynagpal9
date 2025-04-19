@@ -43,10 +43,4 @@ With over 7 years of experience in building scalable web applications and high-p
 
 ---
 
-## 📊 GitHub Stats
-
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinay-nagpal&show_icons=true&theme=radical)
-
----
-
 *Let's build something amazing together!*
