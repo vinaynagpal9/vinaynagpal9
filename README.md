@@ -12,16 +12,16 @@ With over 7 years of experience in building scalable web applications and high-p
 - React.js, Next.js, Redux, Tailwind CSS, Material UI
 
 **Backend:**
-- Node.js, Express.js, TypeScript, REST APIs, GraphQL
+- Node.js, Express.js, TypeScript, REST APIs, GraphQL, Python
 
 **Databases:**
-- MongoDB, PostgreSQL, MySQL, Redis
+- MongoDB, PostgreSQL, MySQL, Redis, Neo4j, Solr
 
 **DevOps & Cloud:**
 - Docker, Kubernetes, GitHub Actions, Jenkins, AWS (EC2, EKS, S3, Lambda), Firebase
 
 **Tools & Messaging:**
-- RabbitMQ, Kafka, PM2, Swagger, Postman
+- RabbitMQ, Kafka, PM2, Swagger, Postman, NewRelic
 
 ---
 
